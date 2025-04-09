@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Document Management System\\Document\\wwwroot\\Archives\\4b80d676-0086-41af-bd30-106b41bd9d9d.zip",
+      "PackagePath": "staticwebassets\\Archives\\4b80d676-0086-41af-bd30-106b41bd9d9d.zip"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Document Management System\\Document\\wwwroot\\Archives\\5f38322b-e3dc-44b9-abb5-8b5892bb0c0d.zip",
+      "PackagePath": "staticwebassets\\Archives\\5f38322b-e3dc-44b9-abb5-8b5892bb0c0d.zip"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Document Management System\\Document\\wwwroot\\Archives\\e56ea570-ee28-4589-8ca3-e9ccf7576c91.zip",
+      "PackagePath": "staticwebassets\\Archives\\e56ea570-ee28-4589-8ca3-e9ccf7576c91.zip"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Document Management System\\Document\\wwwroot\\file\\string\\code-snapshot2.png",
+      "PackagePath": "staticwebassets\\file\\string\\code-snapshot2.png"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Document.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Document.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Document.props",
+      "PackagePath": "build\\Document.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Document.props",
+      "PackagePath": "buildMultiTargeting\\Document.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Document.props",
+      "PackagePath": "buildTransitive\\Document.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

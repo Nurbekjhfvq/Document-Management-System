@@ -5,7 +5,7 @@ using System.Linq;
 
 public class FileUploadOperationFilter : IOperationFilter
 {
-    public void Apply(OpenApiOperation operation, OperationFilterContext context)
+    public void Apply(OpenApiOperation operation, OperationFilterContext context) 
     {
         // Parametrlarning har birini tekshirib chiqing
         foreach (var parameter in operation.Parameters)
